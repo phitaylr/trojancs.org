@@ -1,0 +1,7 @@
+baseURL: "https://trojancs.org/"
+languageCode: "en-us"
+title: "Trojan CS"
+theme: "book"
+BookTheme: 'auto'
+params:
+    BookMenuBundle: /menu
