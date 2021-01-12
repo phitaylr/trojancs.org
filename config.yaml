@@ -1,7 +1,7 @@
 baseURL: "https://trojancs.org/"
 languageCode: "en-us"
 title: "Trojan CS"
-theme: "book"
+theme: "hugo-book-master"
 BookTheme: 'auto'
 params:
     BookMenuBundle: /menu
