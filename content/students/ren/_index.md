@@ -8,7 +8,7 @@ draft: false
 #(Hello)
 
 ## Mechatronics Portfolio
-* [Analog Circuits]({{< ref "/students/George/Analog Circuits" >}})
+* [Analog Circuits]({{< ref "/students/Ren/Analog Circuits" >}})
 #Insert random picture here
 Here's an image:
 
