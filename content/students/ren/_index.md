@@ -9,7 +9,7 @@ draft: false
 
 ## Mechatronics Portfolio
 * [Analog Circuits]({{< ref "/students/George/Analog Circuits" >}})
-#(Insert random picture)
+#Insert random picture here
 Here's an image:
 
 ![image](images/arduino.jpg)
