@@ -13,7 +13,7 @@ This is a basic series circuit. As you can see, the LEDs are arranged on the bre
 
 Tinkercad link:
 
-![image](images/paralle.png)
+![image]("images/paralle.png")
 
 This is a basic parallel circuit. The current has multiple paths to flow through, so if one LED burnt out, the others would continue to provide light.
 
