@@ -7,7 +7,7 @@ draft: false
 # Ren
 
 ## Mechatronics Portfolio
-* [Analog Circuits]({{< ref "/students/George/Analog Circuits" >}})
+* [Analog Circuits]({{< ref "/students/Ren/Analog Circuits" >}})
 
 Here's an image:
 
