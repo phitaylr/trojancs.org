@@ -7,9 +7,9 @@ draft: false
 # Logan
 
 ## Mechatronics Portfolio
-* [Analog Circuits]({{< ref "/students/Logan/Analog Circuits" >}})
-## Change here
 
-Here's an image:
+Welcome to my Mechatronics Portfolio! This year in Mechatronics we have created several projects which will be displayed on this website. Below you can find a list of links to the pages for those that we have done so far.
+
+* [Analog Circuits]({{< ref "/students/Logan/Analog Circuits" >}})
 
 ![image](images/arduino.jpg)
