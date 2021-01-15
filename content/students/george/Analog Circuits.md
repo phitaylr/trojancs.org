@@ -24,6 +24,11 @@ Lights in series:
 
 If the lights are in parallel, it means that they branch off from the main circuit in their own sort of mini circuits, and the current does not have to travel through the light itself in order to reach the next. If a light blows out in this circuit, it will not affect other parts of the main circuit.
 
-There are many uses for each type of circuit.
+Lights in parallel:
+![image](parallel.png)
+
+There are many uses for both types of circuit.
+
+
 
 
