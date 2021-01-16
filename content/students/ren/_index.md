@@ -12,4 +12,4 @@ draft: false
 #Insert random picture here
 Here's an image:
 
-![image](images/arduino.jpg)
+![image](images/Arduino.png)

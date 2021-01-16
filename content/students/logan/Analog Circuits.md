@@ -11,12 +11,15 @@ This week we created a few circuits in Tinkercad to explore the basics of circui
 
 This is a basic series circuit. As you can see, the LEDs are arranged on the breadboard such that current can only flow in one path through them.
 
-Tinkercad link:
+[Tinkercad link](https://www.tinkercad.com/things/iTgSzZUdWof-terrific-tumelo/editel?tenant=circuits)
 
 ![image](../images/paralle.png)
 
 This is a basic parallel circuit. The current has multiple paths to flow through, so if one LED burnt out, the others would continue to provide light.
 
+
+[Tinkercad link](https://www.tinkercad.com/things/clRP9Yy7Rd2-stunning-bombul/editel)
+=======
 Tinkercad link:
 
 ![image](../images/stoplight.png)
@@ -30,8 +33,8 @@ In this project, we created an analog circuit that would light up different ligh
 
 
 
-
 # Building Circuits
 After building these in Tinkercad, we created one of them with a breadboard hands on!
 
 (image here)
+
