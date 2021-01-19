@@ -36,7 +36,7 @@ In this project, we created an analog circuit that would light up different ligh
 # Building Circuits
 After building these in Tinkercad, we created one of them with a breadboard hands on!
 
-![image]../(images/paralleltop.jpeg)
+![image](../images/paralleltop.jpeg)
 
 Note that in the first picture the LEDs are not lit up, this is because I unplugged the negative wire in order to better show the wiring.
 ![image](../images/parallelside.jpeg)
