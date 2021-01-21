@@ -6,14 +6,28 @@
     <description>Recent content on Trojan CS</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 11 Jan 2021 19:44:43 -0600</lastBuildDate><atom:link href="https://trojancs.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 15 Jan 2021 09:08:51 -0600</lastBuildDate><atom:link href="https://trojancs.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Arduino Circuits</title>
+      <link>https://trojancs.org/students/logan/arduino-circuits/</link>
+      <pubDate>Fri, 15 Jan 2021 09:08:51 -0600</pubDate>
+      
+      <guid>https://trojancs.org/students/logan/arduino-circuits/</guid>
+      <description>#Arduino Circuits
+In this project, we created an analog circuit that would light up different lights based on the value of the adjustable resistor. We accomplished this with some basic code on an Arduino as well as the circuit you can see above. Below is the code used on the arduino. Tinkercad link</description>
+    </item>
+    
     <item>
       <title>Analog Circuits</title>
       <link>https://trojancs.org/students/george/analog-circuits/</link>
       <pubDate>Mon, 11 Jan 2021 19:44:43 -0600</pubDate>
       
       <guid>https://trojancs.org/students/george/analog-circuits/</guid>
-      <description></description>
+      <description>https://www.tinkercad.com/things/2JOIi6aO5Ye-exquisite-jaagub-fulffy/editel
+STOPLIGHTS
+SERIES VERSUS PARALLEL #  Say we have a part of a circuit with a string of LED lights.
+If those lights are in series, it means the current must pass through the light in order to continue through the circuit and get to the next one. So if one light blows out, the whole circuit will fail.
+Lights in series: If the lights are in parallel, it means that they branch off from the main circuit in their own sort of mini circuits, and the current does not have to travel through the light itself in order to reach the next.</description>
     </item>
     
     <item>
@@ -22,7 +36,7 @@
       <pubDate>Mon, 11 Jan 2021 19:44:43 -0600</pubDate>
       
       <guid>https://trojancs.org/students/logan/analog-circuits/</guid>
-      <description></description>
+      <description>Tinkercad #  This week we created a few circuits in Tinkercad to explore the basics of circuits. We learned about 3 varieties of circuits, series, parallel, and analog. Series circuits require all resistors to be arrange such that the current only can take one path. Parallel circuits are different, arranging resistors such that instead of taking one path, it can take many simultaneously, and if one resistor is removed or damage, the others will continue to function as normal.</description>
     </item>
     
     <item>
@@ -40,7 +54,8 @@
       <pubDate>Mon, 11 Jan 2021 19:44:43 -0600</pubDate>
       
       <guid>https://trojancs.org/students/william/analog-circuits/</guid>
-      <description></description>
+      <description>WOW I CAN TYPE THINGS
+Mekatronik är cool, så är kodning också</description>
     </item>
     
     <item>
@@ -87,6 +102,15 @@
       
       <guid>https://trojancs.org/posts/welcome/</guid>
       <description>Welcome to Trojancs.org</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://trojancs.org/_question/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://trojancs.org/_question/</guid>
+      <description></description>
     </item>
     
     <item>

@@ -4,8 +4,19 @@
   
   <url>
     <loc>https://trojancs.org/</loc>
-    <lastmod>2021-01-11T19:44:43-06:00</lastmod>
+    <lastmod>2021-01-15T09:08:51-06:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://trojancs.org/students/</loc>
+    <lastmod>2021-01-15T09:08:51-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://trojancs.org/students/logan/arduino-circuits/</loc>
+    <lastmod>2021-01-15T09:08:51-06:00</lastmod>
   </url>
   
   <url>
@@ -25,11 +36,6 @@
   
   <url>
     <loc>https://trojancs.org/students/william/analog-circuits/</loc>
-    <lastmod>2021-01-11T19:44:43-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://trojancs.org/students/</loc>
     <lastmod>2021-01-11T19:44:43-06:00</lastmod>
   </url>
   
@@ -87,6 +93,11 @@
   <url>
     <loc>https://trojancs.org/posts/welcome/</loc>
     <lastmod>2021-01-11T16:10:37-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://trojancs.org/_question/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
