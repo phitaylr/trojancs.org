@@ -4,8 +4,6 @@
   
   <url>
     <loc>https://trojancs.org/</loc>
-<<<<<<< HEAD
-=======
     <lastmod>2021-01-21T15:26:20-06:00</lastmod>
     <priority>0</priority>
   </url>
@@ -22,21 +20,11 @@
   
   <url>
     <loc>https://trojancs.org/students/</loc>
->>>>>>> cd4c2ba654c54e1682b289af34e427dd707d3074
     <lastmod>2021-01-15T09:08:51-06:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-<<<<<<< HEAD
-    <loc>https://trojancs.org/students/</loc>
-    <lastmod>2021-01-15T09:08:51-06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-=======
->>>>>>> cd4c2ba654c54e1682b289af34e427dd707d3074
     <loc>https://trojancs.org/students/logan/arduino-circuits/</loc>
     <lastmod>2021-01-15T09:08:51-06:00</lastmod>
   </url>

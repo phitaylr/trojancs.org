@@ -6,9 +6,6 @@
     <description>Recent content on Trojan CS</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-<<<<<<< HEAD
-    <lastBuildDate>Fri, 15 Jan 2021 09:08:51 -0600</lastBuildDate><atom:link href="https://trojancs.org/index.xml" rel="self" type="application/rss+xml" />
-=======
     <lastBuildDate>Thu, 21 Jan 2021 15:26:20 -0600</lastBuildDate><atom:link href="https://trojancs.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2021 Contest</title>
@@ -19,7 +16,6 @@
       <description></description>
     </item>
     
->>>>>>> cd4c2ba654c54e1682b289af34e427dd707d3074
     <item>
       <title>Arduino Circuits</title>
       <link>https://trojancs.org/students/logan/arduino-circuits/</link>
