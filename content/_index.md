@@ -1,5 +1,6 @@
 # Trojan Computer Science
 [Trinity Valley School](http://tvs.org)
+<<<<<<< HEAD
 <!--
 {{< rawhtml >}}
 <center>
@@ -8,3 +9,7 @@
 </center>
 {{< /rawhtml >}}
 -->
+=======
+
+[2021 Contest]({{< relref "/contests/contest2021.md" >}})
+>>>>>>> cd4c2ba654c54e1682b289af34e427dd707d3074
