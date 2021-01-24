@@ -6,7 +6,8 @@ draft: false
 
 # Fall 2021
 
-This year's Mechatronics class is exploring circuits and robotics with Arduino. Here are their learning portfolios:
+This year's Mechatronics class is exploring circuits and robotics with Arduino. These are the very early stages of their learning portfolios.
+
 * [George]({{< ref "/students/george/" >}} )
 * [Logan]({{< ref "/students/logan/" >}} )
 * [Ren]({{< ref "/students/ren/" >}} )

@@ -5,11 +5,16 @@ draft: false
 ---
 
 # Ren Finley
-#(Hello)
 
 ## Mechatronics Portfolio
-* [Analog Circuits]({{< ref "/students/Ren/Analog Circuits" >}})
-#Insert random picture here
+
+
+
+
+
+
+
+<!-- #Insert random picture here
 Here's an image:
 
-![image](../images/Arduino.png)
+![image](../images/Arduino.png) -->

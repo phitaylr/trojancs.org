@@ -2,7 +2,10 @@
 headless = true
 +++
 
-- [Courses]({{< relref "/courses/" >}})
+[Trinity Valley School](http://tvs.org)
+
+[2021 CP Contest]({{< relref "/contests/contest2021.md" >}})
+- Courses
   - [Mechatronics]({{< relref "Mechatronics" >}})
  <!-- - [APCS A]({{< relref "apcsa" >}}) -->
   

@@ -1,4 +1,10 @@
+---
+title: "Home"
+draft: false
+bookToC: true
+---
 # Trojan Computer Science
-[Trinity Valley School](http://tvs.org)
 
-[2021 Contest]({{< relref "/contests/contest2021.md" >}})
+[![image](./images/CS%20Room%20Monitor.png)]({{< relref "current/3dprintworkshop.md" >}})
+
+
