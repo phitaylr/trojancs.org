@@ -3,14 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://trojancs.org/3dprintworkshop/</loc>
+    <loc>https://trojancs.org/current/3dprintworkshop/</loc>
+    <lastmod>2021-01-24T10:15:28-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://trojancs.org/current/</loc>
     <lastmod>2021-01-24T10:15:28-06:00</lastmod>
   </url>
   
   <url>
     <loc>https://trojancs.org/</loc>
-    <lastmod>2021-01-21T15:26:20-06:00</lastmod>
-    <priority>0</priority>
+    <lastmod>2021-01-24T10:15:28-06:00</lastmod>
   </url>
   
   <url>
