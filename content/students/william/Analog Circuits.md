@@ -4,6 +4,6 @@ date: 2021-01-11T19:44:43-06:00
 draft: true
 ---
 
-WOW I CAN TYPE THINGS
+Series VS Parallel Circuits
 
-Mekatronik är cool, så är kodning också
+![image](image/Series Circuit.png)
