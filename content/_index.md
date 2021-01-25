@@ -1,2 +1,10 @@
+---
+title: "Home"
+draft: false
+bookToC: true
+---
 # Trojan Computer Science
-[Trinity Valley School](http://tvs.org)
+
+[![image](./images/CS%20Room%20Monitor.png)]({{< relref "current/3dprintworkshop.md" >}})
+
+
