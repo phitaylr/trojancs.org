@@ -8,12 +8,22 @@
     <language>en-us</language>
     <lastBuildDate>Mon, 11 Jan 2021 19:14:22 -0600</lastBuildDate><atom:link href="https://trojancs.org/students/logan/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Arduino Circuits</title>
+      <link>https://trojancs.org/students/logan/arduino-circuits/</link>
+      <pubDate>Fri, 15 Jan 2021 09:08:51 -0600</pubDate>
+      
+      <guid>https://trojancs.org/students/logan/arduino-circuits/</guid>
+      <description>#Arduino Circuits
+In this project, we created an analog circuit that would light up different lights based on the value of the adjustable resistor. We accomplished this with some basic code on an Arduino as well as the circuit you can see above. Below is the code used on the arduino. Tinkercad link</description>
+    </item>
+    
+    <item>
       <title>Analog Circuits</title>
       <link>https://trojancs.org/students/logan/analog-circuits/</link>
       <pubDate>Mon, 11 Jan 2021 19:44:43 -0600</pubDate>
       
       <guid>https://trojancs.org/students/logan/analog-circuits/</guid>
-      <description></description>
+      <description>Tinkercad #  This week we created a few circuits in Tinkercad to explore the basics of circuits. We learned about 3 varieties of circuits, series, parallel, and analog. Series circuits require all resistors to be arrange such that the current only can take one path. Parallel circuits are different, arranging resistors such that instead of taking one path, it can take many simultaneously, and if one resistor is removed or damage, the others will continue to function as normal.</description>
     </item>
     
   </channel>
