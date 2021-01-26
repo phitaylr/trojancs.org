@@ -25,6 +25,9 @@ A series circuit is a circuit that depends on each item in the chain in order fo
 Should one item in the circuit be removed or fail, then the whole circuit will be disconnected.
 Should this happen, current will not run through it, resulting in nothing happening when connected to a power source.
 
+For this example, one can see that the circuit is disconnected because, when the LED is taken out, it stops the first LED from connecting
+to the third LED. The (-) end of the first LED is now only running on column 9, while the (+) end of the third LED is on the 8th column.
+
 ![image](../images/Series Circuit2.png)
 
 In contrast, a parallel circuit is one that work even if an item is removed. In both situations, the LED lights are the items
@@ -33,6 +36,7 @@ being removed. In the series circuit, the circuit is broken with the removal of 
 ![image](../images/Parallel Circuit.png)
 
 For a parallel circuit, when the LED is removed, the circuit is not broken because it is still connected to the other LEDs,
-thus retaining the property of a complete circuit.
+thus retaining the property of a complete circuit. For the example below, both (+) end of the LEDs are connected to the power source
+through column 10, and both (-) ends are connected on column 9, making it a completed circuit.
 
 ![image](../images/Parallel Circuit2.png)
