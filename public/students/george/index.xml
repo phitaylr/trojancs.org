@@ -13,8 +13,7 @@
       <pubDate>Mon, 11 Jan 2021 19:44:43 -0600</pubDate>
       
       <guid>https://trojancs.org/students/george/analog-circuits/</guid>
-      <description>https://www.tinkercad.com/things/2JOIi6aO5Ye-exquisite-jaagub-fulffy/editel
-STOPLIGHTS
+      <description>STOPLIGHTS
 SERIES VERSUS PARALLEL #  Say we have a part of a circuit with a string of LED lights.
 If those lights are in series, it means the current must pass through the light in order to continue through the circuit and get to the next one. So if one light blows out, the whole circuit will fail.
 Lights in series: If the lights are in parallel, it means that they branch off from the main circuit in their own sort of mini circuits, and the current does not have to travel through the light itself in order to reach the next.</description>
