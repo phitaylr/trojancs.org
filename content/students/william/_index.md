@@ -7,8 +7,8 @@ draft: false
 # William
 
 ## Mechatronics Portfolio
+* [Analog Circuits]({{< ref "/students/william/Analog Circuits" >}})
 
+Here's an image:
 
-<!-- Here's an image:
-
-![image](images/arduino.jpg) -->
+![image](images/arduino.jpg)
