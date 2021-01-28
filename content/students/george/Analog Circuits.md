@@ -36,3 +36,7 @@ There are many uses for both types of circuit.
 STOPLIGHT CIRCUITS:
 
 https://www.tinkercad.com/things/2JOIi6aO5Ye-exquisite-jaagub-fulffy/editel
+
+We usage a pententiometer to send a variable signal level, from 0 to 1023. If we use some code to read the voltage, you can light a certain LED depending on where the pent. is. 
+
+Push button as well. When the button is up, no current travels through so it doesn't affect the circuit. But when it's down, current can pass through and lights up every LED.
