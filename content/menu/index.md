@@ -6,9 +6,9 @@ headless = true
 
 [2021 CP Contest]({{< relref "/contests/contest2021.md" >}})
 - Courses
-  - [Mechatronics]({{< relref "Mechatronics" >}})
-  - [Graphics Programming]({{< relref "Graphics" >}})
   - [APCS A]({{< relref "apcsa" >}})
+  - [Graphics Programming]({{< relref "Graphics" >}})
+  - [Mechatronics]({{< relref "Mechatronics" >}})
   - [Problem Solving]({{< relref "Problem Solving" >}})
  <!--  -->
   
