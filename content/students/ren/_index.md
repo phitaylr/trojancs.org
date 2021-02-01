@@ -11,7 +11,6 @@ draft: false
 #Shown here is an example of series vs. parallel circuits.
 ![image](../images/SeriesVsParallel.png)
 
-* [Analog Circuits]({{< ref "/students/Ren/Analog Circuits" >}})
 #Gallery of circuits
 Here's an image:
 

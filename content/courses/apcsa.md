@@ -7,3 +7,6 @@ bookToc: true
 # bookComments: true
 ---
 
+# AP© Computer Science A
+
+{{< youtube H_0uWjl30hI >}}
