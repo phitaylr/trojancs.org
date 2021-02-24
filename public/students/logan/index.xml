@@ -8,6 +8,15 @@
     <language>en-us</language>
     <lastBuildDate>Mon, 11 Jan 2021 19:14:22 -0600</lastBuildDate><atom:link href="https://trojancs.org/students/logan/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Stoplight</title>
+      <link>https://trojancs.org/students/logan/stoplight/</link>
+      <pubDate>Tue, 26 Jan 2021 09:06:49 -0600</pubDate>
+      
+      <guid>https://trojancs.org/students/logan/stoplight/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Arduino Circuits</title>
       <link>https://trojancs.org/students/logan/arduino-circuits/</link>
       <pubDate>Fri, 15 Jan 2021 09:08:51 -0600</pubDate>
