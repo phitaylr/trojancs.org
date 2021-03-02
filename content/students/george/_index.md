@@ -8,5 +8,6 @@ draft: false
 
 ## Mechatronics Portfolio
 * [Analog Circuits]({{< ref "/students/George/Analog Circuits" >}})
-
+* [Stoplight]({{< ref "/students/George/Stoplight" >}})
+* [Switches and Distance Finders]({{< ref "/students/George/Switches and Distance Finders" >}})
 
