@@ -8,7 +8,4 @@ draft: false
 
 ## Mechatronics Portfolio
 * [Analog Circuits]({{< ref "/students/william/Analog Circuits" >}})
-
-Here's an image:
-
-![image](images/arduino.jpg)
+* [Stoplight]({{< ref "/students/william/Stoplight" >}})
