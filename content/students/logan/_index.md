@@ -12,4 +12,4 @@ Welcome to my Mechatronics Portfolio! This year in Mechatronics we have created 
 
 * [Analog Circuits]({{< ref "/students/Logan/Analog Circuits" >}})
 
-<!-- ![image](images/arduino.jpg) -->
+
