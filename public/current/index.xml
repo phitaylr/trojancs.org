@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Currents on Trojan CS</title>
+    <link>https://trojancs.org/current/</link>
+    <description>Recent content in Currents on Trojan CS</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 24 Jan 2021 10:15:28 -0600</lastBuildDate><atom:link href="https://trojancs.org/current/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>3dprintworkshop</title>
+      <link>https://trojancs.org/current/3dprintworkshop/</link>
+      <pubDate>Sun, 24 Jan 2021 10:15:28 -0600</pubDate>
+      
+      <guid>https://trojancs.org/current/3dprintworkshop/</guid>
+      <description>3d Modeling/Printing Workshop #  Fill out this form to register! After you register, go ahead and download Fusion 360, the modeling software we&amp;rsquo;ll be using. Get it by signing up for an Autodesk Education account If you run into any problems, please see Dr. Taylor before the day of the workshop. This is very important, there won&amp;rsquo;t be time to troubleshoot during the event.
+Loading…</description>
+    </item>
+    
+  </channel>
+</rss>
