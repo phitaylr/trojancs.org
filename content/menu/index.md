@@ -3,7 +3,7 @@ headless = true
 +++
 
 [Trinity Valley School](http://tvs.org)
-test
+
 - Courses
   - [APCS A]({{< relref "apcsa" >}})
   - [Graphics Programming]({{< relref "Graphics" >}})
