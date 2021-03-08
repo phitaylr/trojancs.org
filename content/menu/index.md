@@ -4,7 +4,6 @@ headless = true
 
 [Trinity Valley School](http://tvs.org)
 
-[2021 CP Contest]({{< relref "/contests/contest2021.md" >}})
 - Courses
   - [APCS A]({{< relref "apcsa" >}})
   - [Graphics Programming]({{< relref "Graphics" >}})
