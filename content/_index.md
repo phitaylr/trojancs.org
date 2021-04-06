@@ -5,11 +5,7 @@ bookToC: true
 ---
 # Trojan Computer Science
 
-<!-- Welcome to the web home of the Computer Science Department at [Trinity Valley School](http://tvs.org) in Fort Worth, Texas. -->
-![image](images/parryhotter.png)
-
-## Upcoming TVS Events
-- Trojan Invitational Competitive Programming Competition
+Welcome to the web home of the Computer Science Department at [Trinity Valley School](http://tvs.org) in Fort Worth, Texas.
 
 ## Courses We Offer
   - [APCS A]({{< relref "apcsa" >}})
