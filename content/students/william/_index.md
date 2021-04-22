@@ -9,3 +9,6 @@ draft: false
 ## Mechatronics Portfolio
 * [Analog Circuits]({{< ref "/students/william/Analog Circuits" >}})
 * [Stoplight]({{< ref "/students/william/Stoplight" >}})
+
+## Latest Project
+{{< youtube L2RukqCf-1I >}}
