@@ -7,7 +7,7 @@ bookToC: true
 
 Welcome to the web home of the Computer Science Department at [Trinity Valley School](http://tvs.org) in Fort Worth, Texas.
 
-{{iframe}}
+{{<iframe>}}
 
 ## Courses We Offer
   - [APCS A]({{< relref "apcsa" >}})
