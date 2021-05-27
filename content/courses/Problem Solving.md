@@ -5,4 +5,4 @@ draft: false
 ---
 # Programming and Problem Solving
 
-{{< youtube cm-ZzTQLNx8 >}}
+Programming and Problem Solving is one of our introductory course sequences. We use computers to solve fun problems, often in the context of discrete mathematics. 
