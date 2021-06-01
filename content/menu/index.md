@@ -9,6 +9,8 @@ headless = true
   - [Graphics Programming]({{< relref "Graphics" >}})
   - [Mechatronics]({{< relref "Mechatronics" >}})
   - [Problem Solving]({{< relref "Problem Solving" >}})
+- Camps
+  - [Xplore Code Week 1]({{< relref "xplore-code-w1" >}})
  <!--  -->
   
 
