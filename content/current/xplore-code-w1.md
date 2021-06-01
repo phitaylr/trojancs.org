@@ -11,7 +11,7 @@ We learned how to use `point(), line(), stroke(), strokeWeight(), background(), 
 <center>
 <iframe width=405 height= 405 src="https://editor.p5js.org/brannonm2027/embed/QfZRdfOyU"></iframe><br>
 <caption>Random Follow the Mouse, by M.J.  </caption>
-<center>
+</center>
 {{< /rawhtml >}}
 
 Each student submitted the favorite thing they created today:
