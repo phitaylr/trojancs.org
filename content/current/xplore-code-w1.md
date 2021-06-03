@@ -4,6 +4,27 @@ date: 2021-01-24T10:15:28-06:00
 draft: false
 ---
 
+# Day 2: Interaction, Variables, and Branching
+
+{{< rawhtml >}}
+<center>
+<iframe width=405 height= 405 src="https://editor.p5js.org/pricem2027/embed/hGt-gpuZ-"></iframe><br>
+<caption>Raspberry Pi Logo (featuring translation and rotation!), by Micah  </caption>
+</center>
+{{< /rawhtml >}}
+Today, we incorporated variables and branching into our work, and we added some user interation. Here are the sketches students were excited to share with you:
+
+- [M.J.](https://editor.p5js.org/brannonm2027/present/87IyqA-Fe)
+- [Thomas](https://editor.p5js.org/youngt2026/present/1GfCs2YHe)
+- [Isabella](https://editor.p5js.org/jacksoni2029/present/BuFaYTJRh)
+- [Tyler](https://editor.p5js.org/tyler.jordan/present/WesdSWcL7)
+- [Ellie](https://editor.p5js.org/Ellie327/sketches/TxGu6RT2y)
+- [JD](https://editor.p5js.org/JackLee/present/4EXbw6h9W)
+- [John](https://editor.p5js.org/John.S/embed/2h6tNz9ud)
+- [Nathan](https://editor.p5js.org/nateboi/present/PQirIIxGP)
+- [William](https://editor.p5js.org/beckerw2029/present/to3VFyCV_)
+- [Matthew](https://editor.p5js.org/phitaylr/present/38IhSHLGg)
+
 # Day 1: Graphics Primitives
 
 We learned how to use `point(), line(), stroke(), strokeWeight(), background(), and fill()` to make graphical objects appear in a [p5js](https://p5js.org) sketch. 
