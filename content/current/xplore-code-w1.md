@@ -3,6 +3,25 @@ title: "2021 Xplore Code Camp W 1"
 date: 2021-01-24T10:15:28-06:00
 draft: false
 ---
+# Day 3: More Interaction, Variables, and Branching
+
+{{< rawhtml >}}
+<center>
+<iframe width=405 height= 405 src="https://editor.p5js.org/nateboi/embed/iw3quk5iP"></iframe><br>
+<caption>Beginning Pong, by Nathan </caption>
+</center>
+{{< /rawhtml >}}
+
+What a great last day of camp! We worked some on getting the beginnings of a classic pong game going. We had fun right up until it was time to go, so not everybody got to send in their favorites of the day. 
+
+- [Ellie](https://editor.p5js.org/Ellie327/sketches/NjPNzeDRk)
+- [Tyler](https://editor.p5js.org/tyler.jordan/present/FUznz-ZEa)
+- [M.J.](https://editor.p5js.org/brannonm2027/present/lI-euoXG-)
+- [Nathan](https://editor.p5js.org/nateboi/present/iw3quk5iP)
+- [thomas](https://editor.p5js.org/youngt2026/present/ePsuI9cca)
+- [Micah](https://editor.p5js.org/pricem2027/sketches/TomInW0DE)
+- [JD](https://editor.p5js.org/JackLee/present/vHV6RisGZ)
+
 
 # Day 2: Interaction, Variables, and Branching
 
