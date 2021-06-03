@@ -7,7 +7,7 @@ draft: false
 
 {{< rawhtml >}}
 <center>
-<iframe width=405 height= 405 src="https://editor.p5js.org/nateboi/embed/iw3quk5iP"></iframe><br>
+<iframe width=605 height= 405 src="https://editor.p5js.org/nateboi/embed/iw3quk5iP"></iframe><br>
 <caption>Beginning Pong, by Nathan </caption>
 </center>
 {{< /rawhtml >}}
