@@ -1,53 +1,53 @@
 ---
-title: "Sample!"
-date: 2021-06-30 20:55:37.685608
+title: "Sample"
+date: 2021-06-30 21:00:45.775541
 draft: false
 ---
 
-# Sample!
+# Sample
 
 {{< columns >}}
-[![The title](./images/thumb_6c2216db-da0f-11eb-8ff7-60f262b60b65.png)](6e6bd012-da0f-11eb-bc24-60f262b60b65)
+[![The title](./images/thumb_23fd1142-da10-11eb-be25-60f262b60b65.png)](260e9b1a-da10-11eb-a53c-60f262b60b65)
 
 The title<br>
 
-[![Untitled](./images/thumb_6c2b3e97-da0f-11eb-bb4a-60f262b60b65.png)](6e6bf6b6-da0f-11eb-98ad-60f262b60b65)
+[![Untitled](./images/thumb_24063ab1-da10-11eb-9f64-60f262b60b65.png)](260ec248-da10-11eb-a470-60f262b60b65)
 
 Untitled<br>
 
-[![Untitled](./images/thumb_6c306e9a-da0f-11eb-b81f-60f262b60b65.png)](6e6c6bc0-da0f-11eb-a5a8-60f262b60b65)
-
-Untitled<br>
-<--->
-[![Untitled](./images/thumb_6c35c5d8-da0f-11eb-8732-60f262b60b65.png)](6e6c92e2-da0f-11eb-a9af-60f262b60b65)
-
-Untitled<br>
-
-[![Untitled](./images/thumb_6c3c2e73-da0f-11eb-8404-60f262b60b65.png)](6e6c92e3-da0f-11eb-8d57-60f262b60b65)
-
-Untitled<br>
-
-[![Untitled](./images/thumb_6c4221e8-da0f-11eb-8574-60f262b60b65.png)](6e6cb9ec-da0f-11eb-ad89-60f262b60b65)
+[![Untitled](./images/thumb_240b906d-da10-11eb-941f-60f262b60b65.png)](260f375a-da10-11eb-95d9-60f262b60b65)
 
 Untitled<br>
 <--->
-[![Untitled](./images/thumb_6c4926c4-da0f-11eb-82f4-60f262b60b65.png)](6e6cb9ed-da0f-11eb-a230-60f262b60b65)
+[![Untitled](./images/thumb_2410c0a5-da10-11eb-8927-60f262b60b65.png)](260f5e58-da10-11eb-bbec-60f262b60b65)
 
 Untitled<br>
 
-[![Untitled](./images/thumb_6c4f8f83-da0f-11eb-84cf-60f262b60b65.png)](6e6ce0bc-da0f-11eb-a2bf-60f262b60b65)
+[![Untitled](./images/thumb_24163fbe-da10-11eb-9dba-60f262b60b65.png)](260f856d-da10-11eb-93f8-60f262b60b65)
 
 Untitled<br>
 
-[![Untitled](./images/thumb_6c586900-da0f-11eb-ab24-60f262b60b65.png)](6e6ce0bd-da0f-11eb-ae93-60f262b60b65)
+[![Untitled](./images/thumb_241c322a-da10-11eb-9263-60f262b60b65.png)](260f856e-da10-11eb-9bab-60f262b60b65)
+
+Untitled<br>
+<--->
+[![Untitled](./images/thumb_242274d5-da10-11eb-b842-60f262b60b65.png)](260fac67-da10-11eb-8188-60f262b60b65)
 
 Untitled<br>
 
-[![Untitled](./images/thumb_6c60ce21-da0f-11eb-96f8-60f262b60b65.png)](6e6ce0be-da0f-11eb-aeb3-60f262b60b65)
+[![Untitled](./images/thumb_24395717-da10-11eb-b03a-60f262b60b65.png)](260fac68-da10-11eb-a645-60f262b60b65)
 
 Untitled<br>
 
-[![Untitled](./images/thumb_6c65fe82-da0f-11eb-92ff-60f262b60b65.png)](6e6d07e4-da0f-11eb-991d-60f262b60b65)
+[![Untitled](./images/thumb_24405d45-da10-11eb-9ec5-60f262b60b65.png)](260fac69-da10-11eb-90b7-60f262b60b65)
+
+Untitled<br>
+
+[![Untitled](./images/thumb_24484b25-da10-11eb-8969-60f262b60b65.png)](260fd374-da10-11eb-a43d-60f262b60b65)
+
+Untitled<br>
+
+[![Untitled](./images/thumb_244e182b-da10-11eb-a37d-60f262b60b65.png)](260fd375-da10-11eb-ae79-60f262b60b65)
 
 Untitled<br>
 {{< /columns >}}
