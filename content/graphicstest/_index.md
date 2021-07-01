@@ -1,51 +1,64 @@
 ---
-title: "adf"
-date: 2021-06-30 17:04:27.880237
+title: "Sample"
+date: 2021-06-30 20:41:52.951181
 draft: false
 ---
 
-# adf
+# Sample
 
 {{< columns >}}
-![No title provided.](./images/nothumbnail.png)
-No title provided.
+<a href="./82d75385-da0d-11eb-a70a-60f262b60b65">
+![The title](./images/thumb_80c9256a-da0d-11eb-8f0a-60f262b60b65.png)</a><br>
 
-![lab0ben.png](./images/thumb_220fff46-d9ef-11eb-ae0f-60f262b60b65.png)
-lab0ben.png
+The title<br>
 
-![personalLogo.png](./images/thumb_221a10f9-d9ef-11eb-9610-60f262b60b65.png)
-personalLogo.png
+<a href="./82d75386-da0d-11eb-bb48-60f262b60b65">
+![Untitled](./images/thumb_80d1d805-da0d-11eb-890a-60f262b60b65.png)</a><br>
 
-![lab0thomas.png](./images/thumb_221f6827-d9ef-11eb-8b8c-60f262b60b65.png)
-lab0thomas.png
+Untitled<br>
+
+<a href="./82d8b530-da0d-11eb-af58-60f262b60b65">
+![Untitled](./images/thumb_80d72f28-da0d-11eb-b058-60f262b60b65.png)</a><br>
+
+Untitled<br>
 <--->
-![logo.png](./images/thumb_22247195-d9ef-11eb-beac-60f262b60b65.png)
-logo.png
+<a href="./82d8dcff-da0d-11eb-a8fb-60f262b60b65">
+![Untitled](./images/thumb_80dc1129-da0d-11eb-8414-60f262b60b65.png)</a><br>
 
-![Lab0Wyatt.png](./images/thumb_222a8bad-d9ef-11eb-93fd-60f262b60b65.png)
-Lab0Wyatt.png
+Untitled<br>
 
-![lab0devan.png](./images/thumb_224406b2-d9ef-11eb-98e5-60f262b60b65.png)
-lab0devan.png
+<a href="./82d90412-da0d-11eb-9405-60f262b60b65">
+![Untitled](./images/thumb_80e18f6d-da0d-11eb-bc99-60f262b60b65.png)</a><br>
 
-![my title](./images/nothumbnail.png)
-my title
+Untitled<br>
+
+<a href="./82d90413-da0d-11eb-930a-60f262b60b65">
+![Untitled](./images/thumb_80e6e69c-da0d-11eb-b01d-60f262b60b65.png)</a><br>
+
+Untitled<br>
 <--->
-![No title provided.](./images/nothumbnail.png)
-No title provided.
+<a href="./82d92af1-da0d-11eb-b439-60f262b60b65">
+![Untitled](./images/thumb_80ed4f45-da0d-11eb-b5f5-60f262b60b65.png)</a><br>
 
-![PersonalLogoBrian.png](./images/thumb_224abdf2-d9ef-11eb-b834-60f262b60b65.png)
-PersonalLogoBrian.png
+Untitled<br>
 
-![logo.png](./images/thumb_22501fb5-d9ef-11eb-bcdb-60f262b60b65.png)
-logo.png
+<a href="./82d92af2-da0d-11eb-9688-60f262b60b65">
+![Untitled](./images/thumb_80f2cd7c-da0d-11eb-a3f5-60f262b60b65.png)</a><br>
 
-![Logo Bezier.png](./images/thumb_2256f411-d9ef-11eb-8920-60f262b60b65.png)
-Logo Bezier.png
+Untitled<br>
 
-![lab0AJ.png](./images/thumb_225f0a4d-d9ef-11eb-b1f5-60f262b60b65.png)
-lab0AJ.png
+<a href="./82d92af3-da0d-11eb-9bbe-60f262b60b65">
+![Untitled](./images/thumb_80f95d29-da0d-11eb-aabd-60f262b60b65.png)</a><br>
 
-![lab0chris.png](./images/thumb_226461c7-d9ef-11eb-871a-60f262b60b65.png)
-lab0chris.png
+Untitled<br>
+
+<a href="./82d951f9-da0d-11eb-b80a-60f262b60b65">
+![Untitled](./images/thumb_81129129-da0d-11eb-b122-60f262b60b65.png)</a><br>
+
+Untitled<br>
+
+<a href="./82d951fa-da0d-11eb-b933-60f262b60b65">
+![Untitled](./images/thumb_81185d8b-da0d-11eb-a348-60f262b60b65.png)</a><br>
+
+Untitled<br>
 {{< /columns >}}
