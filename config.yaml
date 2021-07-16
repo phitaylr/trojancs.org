@@ -3,5 +3,6 @@ languageCode: "en-us"
 title: "Trojan CS"
 theme: "hugo-book-master"
 BookTheme: 'auto'
+googleAnalytics: "G-X3R1HZR2GZ"
 params:
     BookMenuBundle: /menu
