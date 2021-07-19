@@ -11,6 +11,7 @@ headless = true
   - [Problem Solving]({{< relref "Problem Solving" >}})
 - Camps
   - [Xplore Code Week 1]({{< relref "xplore-code-w1" >}})
+  - [Xplore Code Week 2]({{< relref "xplore-code-w2" >}})
  <!--  -->
   
 
