@@ -9,7 +9,7 @@ We learned how to use `point(), line(), stroke(), strokeWeight(), background(), 
 {{< rawhtml >}}
 <center>
 <iframe width=405 height= 405 src="https://preview.p5js.org/1monkey/embed/aBuehvuWU"></iframe><br>
-<caption>Circles, by Scott  </caption>
+<caption>Circles, by Thomas  </caption>
 </center>
 {{< /rawhtml >}}
 
