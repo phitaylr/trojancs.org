@@ -13,9 +13,20 @@
       <pubDate>Sun, 24 Jan 2021 10:15:28 -0600</pubDate>
       
       <guid>https://trojancs.org/current/xplore-code-w1/</guid>
-      <description>Day 1: Graphics Primitives#We learned how to use point(), line(), stroke(), strokeWeight(), background(), and fill() to make graphical objects appear in a p5js sketch. 
-Random Follow the Mouse, by M.J. Each student submitted the favorite thing they created today:
- Nathan JD M.J. Isabella Tyler Thomas William John Matthew Ellie Micah  </description>
+      <description>Day 3: More Interaction, Variables, and Branching #   
+Beginning Pong, by Nathan   What a great last day of camp! We worked some on getting the beginnings of a classic pong game going. We had fun right up until it was time to go, so not everybody got to send in their favorites of the day.
+ Ellie Tyler M.J. Nathan thomas Micah JD  Day 2: Interaction, Variables, and Branching #</description>
+    </item>
+    
+    <item>
+      <title>2021 Xplore Code Camp W 1</title>
+      <link>https://trojancs.org/current/xplore-code-w2/</link>
+      <pubDate>Sun, 24 Jan 2021 10:15:28 -0600</pubDate>
+      
+      <guid>https://trojancs.org/current/xplore-code-w2/</guid>
+      <description>Day 1: Graphics Primitives #  We learned how to use point(), line(), stroke(), strokeWeight(), background(), and fill() to make graphical objects appear in a p5js sketch.  
+Circles, by Thomas   A snippet of the code to produce the circles:
+function setup() { createCanvas(1000, 1000); } function draw() { background (255); stroke(255); //white  strokeWeight(200); point(200,200) stroke(0); //black  strokeWeight(180); point(200,200) stroke(255,0,0) strokeWeight(250) point(200,200) stroke(0,255,0); //white  strokeWeight(200); point(200,200) strokeWeight(150) stroke(0,0,255) point(200,200) .</description>
     </item>
     
     <item>
@@ -24,7 +35,7 @@ Random Follow the Mouse, by M.J. Each student submitted the favorite thing the
       <pubDate>Sun, 24 Jan 2021 10:15:28 -0600</pubDate>
       
       <guid>https://trojancs.org/current/3dprintworkshop/</guid>
-      <description>3d Modeling/Printing Workshop#Fill out this form to register! After you register, go ahead and download Fusion 360, the modeling software we&amp;rsquo;ll be using. Get it by signing up for an Autodesk Education account If you run into any problems, please see Dr. Taylor before the day of the workshop. This is very important, there won&amp;rsquo;t be time to troubleshoot during the event.
+      <description>3d Modeling/Printing Workshop #  Fill out this form to register! After you register, go ahead and download Fusion 360, the modeling software we&amp;rsquo;ll be using. Get it by signing up for an Autodesk Education account If you run into any problems, please see Dr. Taylor before the day of the workshop. This is very important, there won&amp;rsquo;t be time to troubleshoot during the event.
 Loading…</description>
     </item>
     
