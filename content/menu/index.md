@@ -7,7 +7,8 @@ headless = true
 - Courses
   - [APCS A]({{< relref "apcsa" >}})
   - [Graphics Programming]({{< relref "Graphics" >}})
-  - [Mechatronics]({{< relref "Mechatronics" >}})
+  - [Digital Fabrication]({{< relref "Digital Fabrication" >}}) 
+  - [Mechatronics]({{< relref "Mechatronics" >}}) 
   - [Problem Solving]({{< relref "Problem Solving" >}})
  <!--  -->
   

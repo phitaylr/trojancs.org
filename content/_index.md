@@ -10,5 +10,6 @@ Welcome to the web home of the Computer Science Department at [Trinity Valley Sc
 ## Courses We Offer
   - [APCS A]({{< relref "apcsa" >}})
   - [Graphics Programming]({{< relref "Graphics" >}})
-  - [Mechatronics]({{< relref "Mechatronics" >}})
+  - [Digital Fabrication]({{< relref "Digital Fabrication" >}})
+  - [Mechatronics]({{< relref "Mechatronics" >}}) 
   - [Problem Solving]({{< relref "Problem Solving" >}})
