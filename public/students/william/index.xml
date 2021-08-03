@@ -13,7 +13,7 @@
       <pubDate>Tue, 26 Jan 2021 09:06:38 -0600</pubDate>
       
       <guid>https://trojancs.org/students/william/stoplight/</guid>
-      <description>Stoplight Setup (RYG)#Just like a regular stoplight, this arduino stoplight can switch between its red, yellow, and green leds. However, unlike a normal stoplight, this one uses a distance sensor to detect how far away it is from an object, and changes which led is lit based on the distance.
+      <description>Stoplight Setup (RYG) #  Just like a regular stoplight, this arduino stoplight can switch between its red, yellow, and green leds. However, unlike a normal stoplight, this one uses a distance sensor to detect how far away it is from an object, and changes which led is lit based on the distance.
   Additionally, like a normal stoplight, this circuit has the ability to change to a blinking red light when the push button is pressed.</description>
     </item>
     
@@ -23,7 +23,7 @@
       <pubDate>Mon, 11 Jan 2021 19:44:43 -0600</pubDate>
       
       <guid>https://trojancs.org/students/william/analog-circuits/</guid>
-      <description>Series VS Parallel Circuits:# An Intoduction to Breadboards:#For all the examples below, I am using a breadboard to house my LEDs and complete my circuit, if I was not using a breadboard, I would be using wires to do the same thing. A breadboard is basically a tool in order to simplify a circuit.
+      <description>Series VS Parallel Circuits: #   An Intoduction to Breadboards: #  For all the examples below, I am using a breadboard to house my LEDs and complete my circuit, if I was not using a breadboard, I would be using wires to do the same thing. A breadboard is basically a tool in order to simplify a circuit.
 A current will always run heightwise(for this example), or along the numbered columns.</description>
     </item>
     

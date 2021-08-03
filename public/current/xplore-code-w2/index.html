@@ -1,0 +1,260 @@
+<!DOCTYPE html>
+<html lang="en" dir=>
+
+<head>
+  <meta name="generator" content="Hugo 0.80.0" />
+  <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Day 1: Graphics Primitives #  We learned how to use point(), line(), stroke(), strokeWeight(), background(), and fill() to make graphical objects appear in a p5js sketch.  
+Circles, by Thomas   A snippet of the code to produce the circles:
+function setup() { createCanvas(1000, 1000); } function draw() { background (255); stroke(255); //white  strokeWeight(200); point(200,200) stroke(0); //black  strokeWeight(180); point(200,200) stroke(255,0,0) strokeWeight(250) point(200,200) stroke(0,255,0); //white  strokeWeight(200); point(200,200) strokeWeight(150) stroke(0,0,255) point(200,200) .">
+<meta name="theme-color" content="#FFFFFF"><meta property="og:title" content="2021 Xplore Code Camp W 1" />
+<meta property="og:description" content="Day 1: Graphics Primitives #  We learned how to use point(), line(), stroke(), strokeWeight(), background(), and fill() to make graphical objects appear in a p5js sketch.  
+Circles, by Thomas   A snippet of the code to produce the circles:
+function setup() { createCanvas(1000, 1000); } function draw() { background (255); stroke(255); //white  strokeWeight(200); point(200,200) stroke(0); //black  strokeWeight(180); point(200,200) stroke(255,0,0) strokeWeight(250) point(200,200) stroke(0,255,0); //white  strokeWeight(200); point(200,200) strokeWeight(150) stroke(0,0,255) point(200,200) ." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://trojancs.org/current/xplore-code-w2/" />
+<meta property="article:published_time" content="2021-01-24T10:15:28-06:00" />
+<meta property="article:modified_time" content="2021-01-24T10:15:28-06:00" />
+<title>2021 Xplore Code Camp W 1 | Trojan CS</title>
+<link rel="manifest" href="/manifest.json">
+<link rel="icon" href="/favicon.png" type="image/x-icon">
+<link rel="stylesheet" href="/book.min.134b70e5316650a530cb42e4e8630b2a01d532bebfc0337028211175336e4806.css" crossorigin="anonymous" integrity="sha256-E0tw5TFmUKUwy0Lk6GMLKgHVMr6/wDNwKCERdTNuSAY=">
+<script defer src="/en.search.min.c34199be984db3e5db4e5b8c60be4935e9f11c3eacb3957e7a6a728536214d17.js" crossorigin="anonymous" integrity="sha256-w0GZvphNs&#43;XbTluMYL5JNenxHD6ss5V&#43;empyhTYhTRc="></script>
+
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+	ga('create', 'G-X3R1HZR2GZ', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
+<script async src='https://www.google-analytics.com/analytics.js'></script>
+<!--
+Made with Book Theme
+https://github.com/alex-shpak/hugo-book
+-->
+
+  
+</head>
+
+<body dir=>
+  <input type="checkbox" class="hidden toggle" id="menu-control" />
+  <input type="checkbox" class="hidden toggle" id="toc-control" />
+  <main class="container flex">
+    <aside class="book-menu">
+      
+  <nav>
+<h2 class="book-brand">
+  <a href="/"><span>Trojan CS</span>
+  </a>
+</h2>
+
+
+<div class="book-search">
+  <input type="text" id="book-search-input" placeholder="Search" aria-label="Search" maxlength="64" data-hotkeys="s/" />
+  <div class="book-search-spinner hidden"></div>
+  <ul id="book-search-results"></ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+  <p><a href="http://tvs.org">Trinity Valley School</a></p>
+<ul>
+<li>Courses
+<ul>
+<li><a href="/courses/apcsa/">APCS A</a></li>
+<li><a href="/courses/graphics/">Graphics Programming</a></li>
+<li><a href="/courses/mechatronics/">Mechatronics</a></li>
+<li><a href="/courses/problem-solving/">Problem Solving</a></li>
+</ul>
+</li>
+<li>Camps
+<ul>
+<li><a href="/current/xplore-code-w1/">Xplore Code Week 1</a></li>
+<li><a href="/current/xplore-code-w2/"class=active>Xplore Code Week 2</a></li>
+</ul>
+</li>
+</ul>
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+<blockquote>
+</blockquote>
+
+
+
+
+
+
+
+
+
+
+</nav>
+
+
+
+
+  <script>(function(){var menu=document.querySelector("aside.book-menu nav");addEventListener("beforeunload",function(event){localStorage.setItem("menu.scrollTop",menu.scrollTop);});menu.scrollTop=localStorage.getItem("menu.scrollTop");})();</script>
+
+
+ 
+    </aside>
+
+    <div class="book-page">
+      <header class="book-header">
+        
+  
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-X3R1HZR2GZ');
+</script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-X3R1HZR2GZ"></script><div class="flex align-center justify-between">
+  <label for="menu-control">
+    <img src="/svg/menu.svg" class="book-icon" alt="Menu" />
+  </label>
+
+  <strong>2021 Xplore Code Camp W 1</strong>
+
+  <label for="toc-control">
+    
+    <img src="/svg/toc.svg" class="book-icon" alt="Table of Contents" />
+    
+  </label>
+</div>
+
+
+  
+  <aside class="hidden clearfix">
+    
+  <nav id="TableOfContents"></nav>
+
+
+  </aside>
+  
+ 
+      </header>
+
+      
+      
+  <article class="markdown"><h1 id="day-1-graphics-primitives">
+  Day 1: Graphics Primitives
+  <a class="anchor" href="#day-1-graphics-primitives">#</a>
+</h1>
+<p>We learned how to use <code>point(), line(), stroke(), strokeWeight(), background(), and fill()</code> to make graphical objects appear in a <a href="https://p5js.org">p5js</a> sketch.
+
+
+<center>
+<iframe width=405 height= 405 src="https://preview.p5js.org/1monkey/embed/aBuehvuWU"></iframe><br>
+<caption>Circles, by Thomas  </caption>
+</center>
+
+</p>
+<p>A snippet of the code to produce the circles:</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-javascript" data-lang="javascript"><span style="color:#66d9ef">function</span> <span style="color:#a6e22e">setup</span>() {
+  <span style="color:#a6e22e">createCanvas</span>(<span style="color:#ae81ff">1000</span>, <span style="color:#ae81ff">1000</span>);
+}
+
+<span style="color:#66d9ef">function</span> <span style="color:#a6e22e">draw</span>() {
+
+<span style="color:#a6e22e">background</span> (<span style="color:#ae81ff">255</span>);
+<span style="color:#a6e22e">stroke</span>(<span style="color:#ae81ff">255</span>);   <span style="color:#75715e">//white
+</span><span style="color:#75715e"></span>  <span style="color:#a6e22e">strokeWeight</span>(<span style="color:#ae81ff">200</span>);
+<span style="color:#a6e22e">point</span>(<span style="color:#ae81ff">200</span>,<span style="color:#ae81ff">200</span>)
+
+  <span style="color:#a6e22e">stroke</span>(<span style="color:#ae81ff">0</span>);  <span style="color:#75715e">//black
+</span><span style="color:#75715e"></span>  <span style="color:#a6e22e">strokeWeight</span>(<span style="color:#ae81ff">180</span>);
+  <span style="color:#a6e22e">point</span>(<span style="color:#ae81ff">200</span>,<span style="color:#ae81ff">200</span>)
+  <span style="color:#a6e22e">stroke</span>(<span style="color:#ae81ff">255</span>,<span style="color:#ae81ff">0</span>,<span style="color:#ae81ff">0</span>)
+  <span style="color:#a6e22e">strokeWeight</span>(<span style="color:#ae81ff">250</span>)
+  <span style="color:#a6e22e">point</span>(<span style="color:#ae81ff">200</span>,<span style="color:#ae81ff">200</span>)
+<span style="color:#a6e22e">stroke</span>(<span style="color:#ae81ff">0</span>,<span style="color:#ae81ff">255</span>,<span style="color:#ae81ff">0</span>);   <span style="color:#75715e">//white
+</span><span style="color:#75715e"></span>  <span style="color:#a6e22e">strokeWeight</span>(<span style="color:#ae81ff">200</span>);
+<span style="color:#a6e22e">point</span>(<span style="color:#ae81ff">200</span>,<span style="color:#ae81ff">200</span>)
+  <span style="color:#a6e22e">strokeWeight</span>(<span style="color:#ae81ff">150</span>)
+  <span style="color:#a6e22e">stroke</span>(<span style="color:#ae81ff">0</span>,<span style="color:#ae81ff">0</span>,<span style="color:#ae81ff">255</span>)
+    <span style="color:#a6e22e">point</span>(<span style="color:#ae81ff">200</span>,<span style="color:#ae81ff">200</span>)
+...
+
+</code></pre></div><hr>
+<p>Each student submitted the favorite thing they created today:</p>
+<ul>
+<li><a href="https://preview.p5js.org/BrooklynO/present/xH4uTmpFO">Brooklyn</a></li>
+<li><a href="https://preview.p5js.org/pathikondas2027/present/a-4KzI4gd-">Saanvi</a></li>
+<li><a href="https://preview.p5js.org/London.Fairley/present/0xGcD11M9">London</a></li>
+<li><a href="https://preview.p5js.org/skuz/present/sJwHN44F5">Scott</a></li>
+<li><a href="https://preview.p5js.org/1monkey/present/aBuehvuWU">thomas</a></li>
+<li><a href="https://preview.p5js.org/jack.Presten/present/Rykel4alJ">jack</a></li>
+<li><a href="https://preview.p5js.org/carrl2028/present/3zJo-60Uc">Lucas</a></li>
+<li><a href="https://preview.p5js.org/Augie/present/EMVvbLZJa">August</a></li>
+<li><a href="https://preview.p5js.org/matthew55/present/iY4ocsWsK">matthew</a></li>
+<li><a href="https://preview.p5js.org/youngt2026/present/IqAJBKwcZ">Thomas</a></li>
+</ul>
+</article>
+ 
+      
+
+      <footer class="book-footer">
+        
+  <div class="flex flex-wrap justify-between">
+
+
+
+
+
+</div>
+
+ 
+        
+      </footer>
+
+      
+  
+  <div class="book-comments">
+
+</div>
+  
+ 
+
+      <label for="menu-control" class="hidden book-menu-overlay"></label>
+    </div>
+
+    
+    <aside class="book-toc">
+      
+  <nav id="TableOfContents"></nav>
+
+ 
+    </aside>
+    
+  </main>
+
+  
+</body>
+
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
