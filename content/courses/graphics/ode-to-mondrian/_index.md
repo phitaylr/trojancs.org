@@ -4,6 +4,9 @@ date: 2021-09-06 12:12:02.271029
 draft: false
 ---
 
+Students used what we learned in class about coordinate systems and lines to recreate works of art by Piet Mondrian. Some students finished earlier and also created new works inspired by Mondrian. They could choose to submit their favorite.
+
+
 # ode-to-mondrian
 {{< columns >}}
 [![Untitled](./images/thumb_85f91c14-0f35-11ec-a5fb-1e00f30e0089.png)](8d76fa56-0f35-11ec-a5fb-1e00f30e0089)
