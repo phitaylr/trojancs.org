@@ -7,4 +7,4 @@ bookToC: true
 
 Welcome to the web home of the Computer Science Department at [Trinity Valley School](http://tvs.org) in Fort Worth, Texas.
 
-Submit a proposal for the [Signature Program and Maker Showcase](https://trojancs.org/maker).
+Looking for bellcal? Try [https://bellcal.trojancs.org/](https://bellcal.trojancs.org/).
