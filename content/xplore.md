@@ -4,7 +4,7 @@ draft: false
 bookToC: true
 ---
 
-# Xplore 2023
+# Tuesday
 
 ## LEDs
 
@@ -64,3 +64,7 @@ void loop() {
 2. Make the servo wait when it gets to the end of each part of its sweep
 1. Add a second servo that goes in opposite directions
 1. Add an LED or two that do things in a pattern with the servos.
+
+## 3d Printing
+
+Join our class on [TinkerCad](https://www.tinkercad.com/joinclass). The join code is YXFJXSX7R.
